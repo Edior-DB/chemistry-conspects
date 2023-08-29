@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Chemistry Concepts",
+    "description": "",
+    "home_page_url": "https://edior-db.github.io/chemistry-concepts",
+    "feed_url": "https://edior-db.github.io/chemistry-concepts/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "The Delocalized Bond"
+    },
+    "items": [
+        {
+            "id": "https://edior-db.github.io/chemistry-concepts/test-post/",
+            "url": "https://edior-db.github.io/chemistry-concepts/test-post/",
+            "title": "Test Post",
+            "summary": "This is a test post",
+            "content_html": "\n    <h2 id=\"this-is-a-test-post\">\n      This is a test post\n    </h2>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"\" height=\"\" width=\"\" alt=\"\"  data-is-external-image=\"true\">\n      \n    </figure>",
+            "author": {
+                "name": "The Delocalized Bond"
+            },
+            "tags": [
+                   "phys-chem"
+            ],
+            "date_published": "2023-08-29T09:51:11+04:00",
+            "date_modified": "2023-08-29T09:51:11+04:00"
+        }
+    ]
+}
